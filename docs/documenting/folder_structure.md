@@ -1,6 +1,6 @@
 # Folder Structure
 
-The folders in student projects should strictly follow the structure of the folders in this repository. The main folders are four assignment folder (corresponding to each assignment) and one folder for final deliverables of your project. In general, the **process** sub-folders include all the necessary code, notebook, files, and models that you have used to achieve the final product of that assignment. It also includes document that represent the process of the assignment such as flowcharts, diagrams and pseudo-codes. The **product** sub-folder sh
+The folders in student projects should strictly follow the structure of the folders in this repository. The main folders are four assignment folder (corresponding to each assignment) and one folder for final deliverables of your project. In general, the **process** sub-folders include all the necessary code, notebook, files, and models that you have used to achieve the final product of that assignment. It also includes documents that represent the process of the assignment such as flowcharts, diagrams and pseudo-codes. The **product** sub-folder sh
 
 Here is run down of the overall structure:
 

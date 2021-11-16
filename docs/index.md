@@ -15,3 +15,5 @@ for cell_neigh in cell_neighbors:
 >these magical documentation pages and python workflows of this studio are made by [Ir. Shervin Azadi](https://shervinazadi.com/)
 
 Hello, this is Pirouz!
+
+$$a^2+b^2=c^2$$

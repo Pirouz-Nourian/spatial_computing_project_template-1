@@ -16,4 +16,4 @@ for cell_neigh in cell_neighbors:
 
 Hello, this is Pirouz!
 
-$$a^2+b^2=c^2$$
+`$$a^2+b^2=c^2$$`
